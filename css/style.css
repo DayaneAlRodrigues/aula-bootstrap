@@ -6,6 +6,13 @@
     background-color: #FFFFFF;
     
 }
+h3 {
+    padding-bottom: 40px;
+}
+.texto {
+    padding-top: 20px;
+    font-weight: bold;
+}
 .quem-somos {
     background-color: #b0c4de;
 }
@@ -17,13 +24,6 @@
 }
 .parceiros {
     background: linear-gradient(#b0c4de,#abcdef);
-}
-h3 {
-    padding-bottom: 40px;
-}
-.texto {
-    padding-top: 20px;
-    font-weight: bold;
 }
 .bg-footer {
     background-color:#b0c4de;
