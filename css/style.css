@@ -1,0 +1,32 @@
+#logo{
+    opacity: 50%;
+    
+}
+.navbar {
+    background-color: #FFFFFF;
+    
+}
+.quem-somos {
+    background-color: #b0c4de;
+}
+
+.margin {
+    
+    padding-top:50px ;
+    padding-bottom: 50px;
+}
+.parceiros {
+    background: linear-gradient(#b0c4de,#abcdef);
+}
+h3 {
+    padding-bottom: 40px;
+}
+.texto {
+    padding-top: 20px;
+    font-weight: bold;
+}
+.bg-footer {
+    background-color:#b0c4de;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
